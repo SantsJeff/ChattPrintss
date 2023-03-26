@@ -20,7 +20,7 @@ Página de contato para solicitações de encomendas personalizadas
 <h3>Instalação<br></h3>
 Clone o repositório em sua máquina:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/SantsJeff/ChattPrintss.git
 
 Abra o arquivo index.html em seu navegador:
 
