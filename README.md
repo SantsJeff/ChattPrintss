@@ -7,7 +7,9 @@
 
 ![alt text](imagem/html5.png "Imagem HTML5")
 HTML<br>
+![alt text](imagem/css.png "Imagem CSS")
 CSS<br>
+![alt text](imagem/js.png "Imagem JS")
 JavaScript<br>
 
 <h3>Funcionalidades<br></h3>
