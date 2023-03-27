@@ -1,1 +1,51 @@
+body{
+  display: flexbox;
+  background-color: rgb(253, 233, 236);
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  display: flex;
+  justify-items: center;
+  align-content: space-between;
+  flex-direction: column;
+}
+
+h1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 58px;
+}
+
+.faixa-colorida {
+  background-image:url(/imagem/faixa.jpg);
+  background-repeat:round;
+  height: 10vw;
+  width:110%;
+}
+
+.box-cabecalho {
+  
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border: 1px solid black;
+  box-shadow: 10px 10px 10px grey;
+  max-width: 25em;
+  height: 15em;
+  word-wrap: break-word;
+
+}
+
+img {
+  display: flex;
+  float: left;
+  margin: 0 20px 20px 0;
+  max-width: 100px;
+  border: 1px solid rgba(215, 32, 160, 0.975);
+  border-radius: 200px;
+}
 
